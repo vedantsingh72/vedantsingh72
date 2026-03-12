@@ -1,8 +1,22 @@
 # 👋 Hi, I'm Vedant Singh
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Competitive+Programmer;CSE+Student+at+RGIPT;Building+Real+World+Systems" />
+<img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Competitive+Programmer;CSE+Student+at+RGIPT;Building+Real+World+Systems;Backend+%7C+Real-time+Applications" />
 </p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=vedantsingh72&label=Profile%20Views&color=blue&style=flat" />
+</p>
+
+---
+
+## 🧠 About Me
+
+🎓 B.Tech CSE @ **RGIPT**  
+💻 Passionate about **backend systems, real-time applications & scalable architectures**  
+🏆 **Codeforces Rating: 1090+**  
+🚀 Love building **real-world products and developer tools**  
+⚡ Interested in **system design, distributed systems and WebRTC**
 
 ---
 
@@ -28,6 +42,14 @@
 
 ---
 
+## 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vedantsingh72&theme=tokyo-night"/>
+</p>
+
+---
+
 ## 🏆 Competitive Programming
 
 <p align="center">
@@ -37,15 +59,21 @@
 </p>
 
 Codeforces →  
-https://codeforces.com/profile/vedant_singh72
+https://codeforces.com/profile/_Vedant_16_Singh_
 
 ---
 
-## 🔥 Contributions
+## 🌐 Connect With Me
 
 <p align="center">
 
-<img src="https://github.com/vedantsingh72/vedantsingh72/blob/output/github-contribution-grid-snake.svg"/>
+<a href="https://github.com/vedantsingh72">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="https://linkedin.com/in/vedantsingh16">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
 
 </p>
 
