@@ -59,7 +59,7 @@
 </p>
 
 Codeforces →  
-https://codeforces.com/profile/_Vedant_16_Singh__
+https://codeforces.com/profile/_Vedant_16_Singh_
 
 ---
 
